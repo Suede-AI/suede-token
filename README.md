@@ -12,7 +12,7 @@ Suede focuses first on ownership, provenance, rights registration, licensing, mo
 
 | Type | URL |
 |---|---|
-| App | `https://app.suedeai.xyz` |
+| App | `https://app.suedeai.ai` |
 | Website | `https://suedeai.org` |
 | Company | `https://suedeai.ai` |
 | X | `https://twitter.com/AISUEDE` |
