@@ -12,7 +12,7 @@ Suede focuses first on ownership, provenance, rights registration, licensing, mo
 
 | Type | URL |
 |---|---|
-| App | `https://app.suedeai.xyz` |
+| App | `https://suedeai.ai` |
 | Website | `https://suedeai.org` |
 | Company | `https://suedeai.ai` |
 | X | `https://twitter.com/AISUEDE` |
@@ -53,7 +53,8 @@ https://www.coingecko.com/en/coins/johnny-suede
 |---|---|
 | CoinGecko | `https://www.coingecko.com/en/coins/johnny-suede` |
 | DEX Screener Solana | `https://dexscreener.com/solana/2ncehpecqvnmfzju5fdmakws1vbxmzxvwr6qqlpapump` |
-| DEX Screener Base | `https://dexscreener.com/base/0x36883afaad6da594358065adc8645a290dcac3de` |
+| DEX Screener Base (LP pool, not the token contract) | `https://dexscreener.com/base/0x36883afaad6da594358065adc8645a290dcac3de` |
+| BaseScan token page (SUEDE Base CA) | `https://basescan.org/token/0x40461291347e1eCbb09499F3371D3f17f10d7159` |
 | Solflare | `https://www.solflare.com/prices/suede-labs-ai/2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump/` |
 
 ## Ecosystem Positioning
