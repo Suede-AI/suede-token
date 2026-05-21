@@ -86,7 +86,7 @@ The broader Suede ecosystem includes independent community launches and experime
 Source links:
 
 - Suedette: `https://www.solflare.com/prices/suedette/2PD1MnKURYLCCtds9hfvXpvJc6mjhMC5ruUWdFkZbonk/`
-- Producer by Suede Labs: Clawdbot / SVID: `https://thebittimes.com/token-SVID-BASE-0x22BAC05Ce5954d64876536B7BBCB98651950ADBD.html`
+- Producer by Suede Labs: Clawdbot / SVID: `https://basescan.org/token/0x22BAC05Ce5954d64876536B7BBCB98651950ADBD`
 - JBDAO: `https://www.solflare.com/prices/jeff-buckley-dao/2zEQm6mLbbU5uoEoGQk3JUX3XJB7qUSkGmjjVHd4VGb7/`
 
 ## x402 and ACP
