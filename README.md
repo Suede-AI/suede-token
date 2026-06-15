@@ -153,7 +153,7 @@ Suede Labs AI is founded and led by Jason Colapietro. Suede builds infrastructur
 ### Books
 
 - **[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions. Free at guitar.solutions.
-- **[The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6)** — Memoir-driven guitar instruction for the self-taught player, including the music IP rights chapter no other guitar book covers. (Kindle)
+- **The Guitar Without a Number** — Memoir-driven guitar instruction for the self-taught player, including the music IP rights chapter no other guitar book covers.
 - **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How ownership, origin, and AI redraw the creative map. (Kindle)
 - **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Building systems where proof is baked in, not bolted on. (Kindle)
 - **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Turning the AI era into creator-owned generational assets. (Kindle)
