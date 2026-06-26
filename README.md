@@ -1,5 +1,7 @@
 # $SUEDE — Suede Labs AI Token
 
+> **[Suede Labs AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder and CEO**
+
 Canonical public reference for the $SUEDE utility token and the broader Suede Labs AI ecosystem.
 
 ---
