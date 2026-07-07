@@ -74,9 +74,9 @@ Clawdbot is the first agent in the Suede ecosystem connected to x402 payment rai
 
 ### x402 Endpoint Catalog
 
-x402 and ACP-ready endpoint documentation is maintained in the dedicated repository:
+x402 and ACP-ready endpoint documentation is exposed through the live discovery catalog:
 
-[github.com/Suede-AI/suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp)
+[app.suedeai.ai/.well-known/x402.json](https://app.suedeai.ai/.well-known/x402.json)
 
 ### Discovery
 
@@ -120,12 +120,12 @@ The Suede ecosystem includes independent community launches and experiments. The
 
 ---
 
-## Public Repositories
+## Public Repositories and Catalogs
 
 | Repository | Purpose |
 |------------|---------|
 | [suede-token](https://github.com/Suede-AI/suede-token) | Token contracts, supply, and ecosystem reference (this repo) |
-| [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | x402 payment rails and ACP-ready endpoint catalog |
+| [Suede x402 endpoint catalog](https://app.suedeai.ai/.well-known/x402.json) | Live x402 payment rails and ACP-ready endpoint catalog |
 | [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, colors, listing copy, and brand assets |
 | [suede-docs](https://github.com/Suede-AI/suede-docs) | Programmable IP, provenance, licensing, and agent commerce documentation |
 
@@ -173,4 +173,3 @@ This document is the canonical public source-of-truth reference for listings, wa
 ---
 
 *Founder mirror: [JasonColapietro/suede-token](https://github.com/JasonColapietro/suede-token)*
-
