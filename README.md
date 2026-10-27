@@ -154,11 +154,10 @@ Suede Labs AI is founded and led by Jason Colapietro. Suede builds infrastructur
 
 ### Books
 
-- **[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions. Free at guitar.solutions.
-- **The Guitar Without a Number** — Memoir-driven guitar instruction for the self-taught player, including the music IP rights chapter no other guitar book covers.
-- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How ownership, origin, and AI redraw the creative map. (Available in hardcover, paperback, and Kindle)
-- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Building systems where proof is baked in, not bolted on. (Available in hardcover, paperback, and Kindle)
-- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Turning the AI era into creator-owned generational assets. (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>**[The Signal Chain](https://guitar.solutions)** — Illustrated history of electric guitar tone: 46 chapters, 3 editions. Free at guitar.solutions. Includes the former *The Guitar Without a Number*.
+- <img src="https://suedeai.ai/books/human-authenticity-layer-cover.jpg" alt="Cover of The Human Authenticity Layer" width="80"><br>**[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How ownership, origin, and AI redraw the creative map. (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/proof-as-infrastructure-cover.jpg" alt="Cover of Proof as Infrastructure" width="80"><br>**[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Building systems where proof is baked in, not bolted on. (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/stake-your-claim-cover.jpg" alt="Cover of Stake Your Claim" width="80"><br>**[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Turning the AI era into creator-owned generational assets. (Available in hardcover, paperback, and Kindle)
 
 Follow: [X / @johnnysuede](https://x.com/johnnysuede) · [suedeai.ai/founder](https://suedeai.ai/founder) · [LinkedIn](https://www.linkedin.com/in/jasoncolapietro)
 
